@@ -5,14 +5,30 @@ public class Xiao {
 	int b=1;
 	int c=1;
 	int e=1;
+
 	int d=1;
+
+	
+
 	int dd=1;
+
 	int cc=2;
+
+	
+
 	int tt=2;
 	int oo=3;
 	
+
 	int pppp=33;
 	int yyyy=44;
+
+
+	
+	int tttt=11;
+	int qqqq=22;
+		
+
 
 
 }
