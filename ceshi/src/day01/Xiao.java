@@ -9,5 +9,7 @@ public class Xiao {
 
 	int d=1;
 	
+	int tt=2;
+	int oo=3;
 
 }
