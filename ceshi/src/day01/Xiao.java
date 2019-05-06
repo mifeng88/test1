@@ -6,13 +6,13 @@ public class Xiao {
 	int c=1;
 	int e=1;
 	int d=1;
-	
-
 	int dd=1;
 	int cc=2;
-
 	int tt=2;
 	int oo=3;
+	
+	int pppp=33;
+	int yyyy=44;
 
 
 }
